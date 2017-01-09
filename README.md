@@ -1,0 +1,2 @@
+# mqredis
+rabbitmqredis
